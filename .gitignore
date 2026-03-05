@@ -1,0 +1,27 @@
+# Claude / Anthropic
+.claude/
+.claude_*
+CLAUDE.md
+.cursorrules
+.cursor/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Misc
+*.log
+*.tmp
+*.bak
+node_modules/
+__pycache__/
+.env
+.env.*
