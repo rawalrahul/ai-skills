@@ -30,6 +30,12 @@ High-quality, production-ready skills for AI-assisted development and operations
   - Selector strategies, dynamic content, CI integration
   - Use when: regression testing, login flows, form validation
 
+#### Media & Video
+- **171: OpenMontage Video Producer** (intermediate)
+  - Drive the open-source OpenMontage agentic video pipeline from Claude Code
+  - Explainers, documentary montages, shorts, podcast clips, screen demos
+  - Use when: producing finished videos from a brief, with cost and license control
+
 ### DevOps Skills (1 total)
 
 #### Monitoring & Debugging
